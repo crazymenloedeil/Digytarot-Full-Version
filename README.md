@@ -237,3 +237,6 @@ This repository serves as the official landing page for DigyTarot. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DigyTarot today!**
+
+---
+**Last updated:** 2026-09-07 23:12:55 UTC
