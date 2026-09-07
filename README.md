@@ -1,0 +1,1 @@
+# Digytarot-Full-Version
